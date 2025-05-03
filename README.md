@@ -3,10 +3,8 @@ My altuim library
 
 
 
-## → Başlık (H2 seviyesi)
-Dosya Adı: Integrated Library Content
+## → Integrated Library Content
 
 
-## Dosya Adı: IntegratedCircuit.rep
 
 
