@@ -1,0 +1,108 @@
+CSV text has been written to file : IntegratedCircuit.csv
+
+Library Component Count : 101
+
+Name                Description
+----------------------------------------------------------------------------------------------------
+
+23K640-I/SN         23K640 Series 2.7 V to 3.6 V 64 kbit SPI Bus Low-Power Serial SRAM - SOIC-8
+24AA02UIDT-I/OT     24AA02 Series 2 Kbit (256 x 8) 5.5 V Surface Mount I2C Serial EEPROM - SOT-23-5
+25LC1024-I/SM       EEPROM, SERIAL, 1024KBIT, 20MHZ, 8SOIJ
+74LVC1G07SE-7       Buffer/Driver 1-CH Non-Inverting Open Drain CMOS 5-Pin SOT-353 T/R
+74LVC1G17SE-7       74LVC Series 5.5 V Surface Mount Single Schmitt Trigger Buffer - SOT-353
+74LVC1G17W5-7       74LVC Series 1.65 to 5.5V Single Schmitt-Trigger Buffer SMT - SOT-25
+74LVC1G3157FZ4-7    Analog Switch Single SPDT 6-Pin X2-DFN T/R
+93LC46BT-I/OT       MICROCHIP - 93LC46BT-I/OT - EEPROM, Microwire, 1 Kbit, 64 x 16bit, Serial Microwire, 3 MHz, SOT-23, 6 Pins
+93LC66AT-I/OT       Microwire Serial EEPROM Family, 2.5Vto 5.5V' 2 MHz, -40°Cto 125°C, SOT-23-6, RoHS
+ADP5588ACPZ-R7      IC KEYPAD SCANNER GPIO PORT EXP
+AOZ6606PI           Switching Regulator, Current-mode, 6A, 650kHz Switching Freq-Max, PDSO8
+AP2141WG-7          IC PWR SW USB 1CH 0.5A SOT-25-5
+AP2151WG-7          DIODES INC.         AP2151WG-7             Power Load Switch, Current Limited, Single High Side, Active High, 1 Output, 5.5V, 0.8A, SOT-25-5
+AP22653W6-7         Power Switch/Driver 1:1 P-Channel 2.1A SOT-23-6
+AP3012KTR-G1        Boost Switching Regulator IC Positive Adjustable 1.25V 1 Output 500mA (Switch) SC-74A, SOT-753
+AP5724FDCG-7        AP5724 Series 2.7 to 5.5 V 1.2 MHz Boost SMT White LED Converter - DFN-6
+AP61100Z6-7         Converter DC to DC Synchronous Buck 0.8V to 7V 3A 6-Pin SOT-563 T/R
+AP63203WU-7         AP63203WU-7
+AP64501SP-13        Buck Switching Regulator IC Positive Adjustable 0.8V 1 Output 5A 8-SOIC (0.154", 3.90mm Width) Exposed Pad
+AP6714M10G-13       Conv DC-DC 0.9V to 5.5V Synchronous Step Up Single-Out 1.8V to 5.5V 1.6A 10-Pin MSOP T/R
+AP7335-SNG-7        LDO Regulator Pos 0.8V to 5V 0.3A 6-Pin DFN EP T/R
+AT24C256C-SSHL-T    EEPROM Serial-2Wire 256K-bit 32K x 8 1.8V/2.5V/3.3V/5V 8-Pin SOIC T/R
+BQ29700DSER         Li-Ion/Li Polymer Advanced Single-Cell Battery Protector IC Family 6-WSON -40 to 85
+CAT24C256WI-GT3     IC EEPROM 256KBIT 400KHZ 8SOIC
+CH340G              IC-340 USB INTERFACE SO16
+DRV8876NPWPR        37-V, 3.5-A brushed DC motor driver 16-HTSSOP -40 to 125
+DS1307ZNTR          IC RTC SERIAL 512K IND 8-SOIC
+DZDH0401DW-7        DZDH0401 Series 40 V 300 mA Surface Mount Ideal Diode Controller - SOT-363
+FSUSB20MUX          FAIRCHILD SEMICONDUCTOR         FSUSB20MUX             USB Interface, Switch, USB 2.0, 3 V, 3.6 V, MSOP, 10 Pins
+FSUSB42MUX          ON SEMICONDUCTOR - FSUSB42MUX - Analogue Switch, UART, 2 Channels, DPDT, 4.5 ohm, 2.4V to 3.6V, MSOP, 10 Pins
+FT2232D-REEL        USB-to-UART 2-CH 3.3V/5V 48-Pin LQFP
+FT230XS-U           USB Interface IC USB to Basic Serial UART IC SSOP-16
+FT4232HL-TRAY       IC USB HS QUAD UART/SYNC 64-LQFP
+ISO1050DUB          EAR99 ISO1050 Tube CANbus interface transceiver 5V 73mA 850.995985mg 74ns
+ISO7231CDWR         Digital Isolator Logic 3-CH 25Mbps 16-Pin SOIC T/R
+LAN9512I-JZX        Microchip LAN9512I-JZX; Ethernet Controller 10/100 Mbits/s; 1.8V; 3.3V; 64-Pin QFN
+LM1117MPX-3.3/NOPB  TEXAS INSTRUMENTS   LM1117MPX-3.3/NOPB.   LINEAR REG, FIX, 3.3V, 800MA, SOT-223-4, FULL REEL
+LM317MDT-TR         STMICROELECTRONICS - LM317MDT-TR - ADJUSTABLE LINEAR REGULATOR, 1.2V TO 37V, DPAK-3
+LM75BD,118          LM75 Series 5.5 V I2C Digital Temperature Sensor and Thermal Watchdog - SOIC-8
+M24C64-RDW6TP       IC EEPROM 64KBIT 400KHZ 8TSSOP
+MAX22025FAWA+       IC Transceiver Half 1/1 8SOIC
+MAX3232ECDR         IC RS232 3V5.5V 15KVESD 16-SOIC
+MAX3485ECSA+T       IC TXRX RS485/422 10MBPS 8SOIC
+MAX485CSA+          IC TXRX RS485/RS422 LOWPWR 8SOIC
+MC74HC595ADR2G      ON SEMICONDUCTOR - MC74HC595ADR2G - 8 BIT SIPO/SISO SHIFT REGISTER SOIC16
+MCP23017T-E/SO      IC I/O EXPANDER I2C 16B 28SOIC
+MCP73831T-2ACI/OT   MCP73831 Series Single-Cell Li-Ion/Li-Polymer Battery Charge Controller SOT-23-5
+MIMX8ML8CVNKZAB_1   i.MX 8M Plus, Industrial / TRAY TRAY MULTIPLE DP BAKEABLE RoHS Compliant: Yes
+MT53E1G32D2FW-046 IT:BDRAM Chip Mobile LPDDR4 SDRAM 32Gbit 1Gx32 1.1V/1.8V 200-Pin TFBGA T/R/Tray
+MTFC16GAPALBH-AIT   No Description Available
+NCP1117ST33T3G      IC REG LDO 3.3V 1A SOT223
+OC1120-0810VQFN8    eSIM
+PAM2401SCADJ        IC REG BOOST ADJ 3A SYNC 8MSOP
+PAM8302AASCR        IC AMP AUDIO 2.5W CLASS D 8MSOP
+PCA9306DCUR         TEXAS INSTRUMENTS - PCA9306DCUR - 2 BIT VOLTAGE LEVEL TRANSLATOR VSSOP8
+PCA9450CHNY         SAMPLE FPN ONLY - Power Management Specialized - PMIC PMIC for i.MX8M Plus(865S)
+PCF85063AT/AY       IC RTC CLK/CALENDAR I2C 8SO
+PCF85063ATL/1,118   PCF85063ATL/1,118  REAL TIME CLOCK/CALENDAR, BINARY, HXSON
+PCF85063ATT/AJ      Real time clock, TSSOP-8,
+PCF8563T/5,518      Real Time Clock Serial 8-Pin SO T/R
+PCF8574DGVR         8-bit 2.5- to 5.5-V I2C/SMBus I/O expander with interrupt 20-TVSOP -40 to 85
+PI3USB221EZUAEX     Analog Multiplexer Single 1: 2 10-Pin UQFN T/R
+PN5180A0HN/C4E      NFC Read/Write 13.56 MHz 2.7V to 5.5V 40-Pin HVQFN Tray
+RT6150BGQW          RT6150B Series 1.8 V 800 mA 1 Out ADJ Buck-Boost Switching Reg-10-WDFN
+RT9742SNGV          Power Switch/Driver 1:1 N-Channel 500mA SOT-23-3
+SI8641BA-C-IUR      General Purpose tal Isolator 1000Vrms 4 Channel 150Mbps 35kV/µs CMTI 16-SSOP (0.154 , 3.90mm Width)
+SI8645BA-B-IUR      Digital Isolator CMOS 4-CH 150Mbps Automotive 16-Pin QSOP T/R
+SN74LVC1G04DBVR     Inverter 1-Element CMOS 5-Pin SOT-23 T/R
+SN74LVC1G08DBVR     IC, AND GATE, SINGLE 2-INPUT, SMD
+SN74LVC2G74DCUR     TEXAS INSTRUMENTS - SN74LVC2G74DCUR - Flipflop, 74LVC74, D, 4.1 ns, 200 MHz, 32 mA, VSSOP
+ST25R3916-AQWT      High performance NFC universal device and EMVCo reader, VFQFPN 5X5X1 32L WETTABLE FLANKS, RoHS
+ST25R3916B-AQWT     High Performance NFC Reader 13.553MHz to 13.567MHz 2mA 32-Pin VFQFPN T/R
+ST3237EBPR          Quint Transmitter Triple Receiver RS-232 28-Pin SSOP T/R
+ST8034HCQR          24-pin smartcard interfaces, -25°C to 85°C, HVQFN24 4x4x0-85, RoHS
+STM32F072CBT6       IC MCU 32BIT 128KB FLASH 48LQFP
+STM32F107RBT6       MCU 32-bit STM32 ARM Cortex M3 RISC 128KB Flash 2.5V/3.3V 64-Pin LQFP Tray
+STM32F401VCT6       STMICROELECTRONICS   STM32F401VCT6   32 Bit Microcontroller, Dynamic Efficiency Line, ARM Cortex-M4, 84 MHz, 256 KB, 64 KB, 100 Pins
+STM32G431CBT6       MCU 32-bit ARM Cortex M4 RISC 128KB Flash 1.8V/2.5V/3.3V 48-Pin LQFP Tray
+STM32U585RIT6Q      MCU 32-Bit STM32U585 ARM Cortex-M33F RISC 2MB Flash 1.71V to 3.6V 64-Pin LQFP Tray
+STM32U585VIT6Q      MCU 32-Bit STM32U585 ARM Cortex-M33F RISC 2MB Flash 1.71V to 3.6V 100-Pin LQFP Tray
+Si8640BB-B-IS1R     Digital Isolators Quad Ch 1.0kV Isltr 150M 4/0 NB SOIC16
+Si8641BB-B-IS1R     Low Power Quad Channel Digital Isolator 16-Pin SOIC N T/R
+Si8663AB-B-IS1      Digital Isolator CMOS 6-CH 1Mbps Automotive 16-Pin SOIC N Tube
+TDA8035HN/C1,118    TDA8035 Series 5.5 V High Integrated and Low Power Smart Card Interface-HVQFN-32
+TDA8035HN/C2/S1EL   Interface - Specialized High integrated and low power smart card interface
+TL431CDBZR          IC VREF SHUNT ADJ SOT23-3
+TLP185(GB-TPL,SE    Optocoupler DC-IN 1-CH Transistor DC-OUT 4-Pin SO
+TNY290KG            TNY290 Series 725 V 140 kHz Energy-Efficient Off-Line Switcher - ESOP-12
+TPC817S1BRAG        OPTOISO 5KV TRANS 4SOP
+TPL5110DDCR         IC TIMER MOS DRIVER/PWR ON 6-SOT
+TPL5111DDCT         Ultra low power system timer (35 nA) for power gating in duty cycled applications 6-SOT-23-THIN -40 to 105
+TPS63030DSKR        IC REG BUCK BOOST ADJ 0.9A 10SON
+TRS3243IPWR         3-V to 5.5-V Multichannel RS-232 Line Driver/Receiver With +/-15-kV (HBM) ESD Protection 28-TSSOP -40 to 85
+TUSB2036VFG4        2/3-port 12-Mbps USB full-speed hub with optional serial EEPROM interface 32-LQFP 0 to 70
+USB2422T-I/MJ       IC HUB CTLR USB 2.0 24QFN
+USB2504-JT          Low Speed/Full Speed/High Speed Compatible 4 Port Hub USB 2.0 1.8V/3.3V 64-Pin TQFP
+USB2514BT-I/M2      USB 2.0 Hi-Speed 4-Port Hub Controller 36-Pin SQFN T/R
+VIPER27HD           AC/DC Converters HI VOLT CONVERTER 800 V RUGGED
+W25N01GVZEIGTR      IC FLASH 1G SPI 104MHZ 8WSON
+W25Q128JVSIM TR     NOR Flash Serial (SPI, Dual SPI, Quad SPI) 3V/3.3V 128M-bit 16M x 8 6ns 8-Pin SOIC T/R/Tray/Tube
+W25Q128JVSIQ        IC FLASH 128M SPI 133MHZ 8SOIC
