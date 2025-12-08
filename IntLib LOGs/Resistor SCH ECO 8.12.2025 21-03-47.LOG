@@ -1,0 +1,41 @@
+Removed Parameter China RoHS:Non-Compliant from Part *
+Removed Parameter ComponentLink1Description:https://datasheet.octopart.com:443/AF0603FR-0710ML-Yageo-datasheet-182189395.pdf?src-supplier=IHS from Part *
+Removed Parameter ComponentLink1URL:https://datasheet.octopart.com:443/AF0603FR-0710ML-Yageo-datasheet-182189395.pdf?src-supplier=IHS from Part *
+Removed Parameter ComponentLink2Description:https://datasheet.octopart.com:443/AF0603FR-0710ML-Yageo-datasheet-153645569.pdf?src-supplier=Upverter from Part *
+Removed Parameter ComponentLink2URL:https://datasheet.octopart.com:443/AF0603FR-0710ML-Yageo-datasheet-153645569.pdf?src-supplier=Upverter from Part *
+Removed Parameter ComponentLink3Description:https://sigma.octopart.com:443/138820526/technical_drawing/Yageo-AF0603FR-0710ML.pdf?src-supplier=Upverter from Part *
+Removed Parameter ComponentLink3URL:https://sigma.octopart.com:443/138820526/technical_drawing/Yageo-AF0603FR-0710ML.pdf?src-supplier=Upverter from Part *
+Removed Parameter ComponentLink4Description:https://datasheet.octopart.com/AF0603FR-0710ML-Yageo-datasheet-68296209.pdf from Part *
+Removed Parameter ComponentLink4URL:https://datasheet.octopart.com/AF0603FR-0710ML-Yageo-datasheet-68296209.pdf from Part *
+Removed Parameter ComponentLink5Description:http://sigma.octopart.com:80/conflict_mineral_statement/Yageo-company-3.pdf?src-supplier=Compliance+Statements from Part *
+Removed Parameter ComponentLink5URL:http://sigma.octopart.com:80/conflict_mineral_statement/Yageo-company-3.pdf?src-supplier=Compliance+Statements from Part *
+Removed Parameter ComponentLink6Description:http://sigma.octopart.com:80/rohs_statement/Yageo-company-2.pdf?src-supplier=Compliance+Statements from Part *
+Removed Parameter ComponentLink6URL:http://sigma.octopart.com:80/rohs_statement/Yageo-company-2.pdf?src-supplier=Compliance+Statements from Part *
+Removed Parameter Composition:Thick Film from Part *
+Removed Parameter Features:Anti-Sulfur, Moisture Resistant from Part *
+Removed Parameter Height:450µm from Part *
+Removed Parameter Length:1.6002mm from Part *
+Removed Parameter Lifecycle Status:Production from Part *
+Removed Parameter Mounting Technology:Surface Mount from Part *
+Removed Parameter Number of Terminals:2 from Part *
+Removed Parameter Number of Terminations:2 from Part *
+Removed Parameter Packaging:Tape & Reel from Part *
+Removed Parameter Power Dissipation:100mW from Part *
+Removed Parameter Pricing:1=0,1, 10=0,02, 25=0,1, 50=0,0158, 100=0,0149, 250=0,0134 (EUR) from Part *
+Removed Parameter REACH SVHC:Yes from Part *
+Removed Parameter Stock:10000 from Part *
+Removed Parameter Supplier:DigiKey from Part *
+Removed Parameter Supplier Part Number:13-AF0603FR-0710MLCT-ND from Part *
+Removed Parameter Width:800µm from Part *
+Change Value of Parameter Category in Part * Old=Chip SMD Resistors New=RESISTOR
+Change Value of Parameter Manufacturer in Part * Old=Yageo Group New=YAGEO
+Change Value of Parameter RoHS in Part * Old=Compliant New=YES
+Change Value of Parameter Value in Part * Old=10MO New=10000000
+Added Parameter Case Code (Imperial)=0603 to Part *
+Added Parameter Local Supplier=GENERAL to Part *
+Added Parameter Mount=SMD to Part *
+Added Parameter Purpose Of Usage=BASIC to Part *
+Added Parameter Stock ID=?? to Part *
+Added Parameter Sub-Category=CHIP RESISTOR to Part *
+Added Parameter Supplier 1=Digi-Key to Part *
+Added Parameter Supplier Part Number 1=13-AF0603FR-0710MLTR-ND to Part *

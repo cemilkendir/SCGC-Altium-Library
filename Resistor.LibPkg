@@ -33,8 +33,8 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
 IsVirtualBomDocumentRemoved=0
-OutputPath=SCGC IntLib Output
-LogFolderPath=SCGC IntLib LOGs
+OutputPath=IntLib Output
+LogFolderPath=IntLib LOGs
 ManagedProjectGUID=
 IncludeDesignInRelease=0
 CrossRefSheetStyle=1
@@ -83,7 +83,7 @@ GenerateClassCluster=0
 DocumentUniqueId=AWOTWJZA
 
 [Generic_EDE]
-OutputDir=SCGC IntLib Output
+OutputDir=IntLib Output
 
 [Generic_IntLibOptions]
 OldFormat=False
@@ -287,22 +287,22 @@ OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
 PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType13=PCBDrawing
-OutputName13=Draftsman
+OutputType13=PDF3D MBA
+OutputName13=PDF3D MBA
 OutputDocumentPath13=
-OutputVariantName13=[No Variations]
+OutputVariantName13=
 OutputDefault13=0
-PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType14=PCBDrawing
 OutputName14=Draftsman
 OutputDocumentPath14=
 OutputVariantName14=[No Variations]
 OutputDefault14=0
 PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType15=PDF3D MBA
-OutputName15=PDF3D MBA
+OutputType15=PCBDrawing
+OutputName15=Draftsman
 OutputDocumentPath15=
-OutputVariantName15=
+OutputVariantName15=[No Variations]
 OutputDefault15=0
 PageOptions15=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
@@ -1121,5 +1121,5 @@ ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Us
 PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [Parameter Manager Custom Column Order]
-resistor.schlib=Category,Sub-Category,"Case Code (Imperial)",Case/Package,Value,"Stock ID","SAP Tanım",Manufacturer,"Manufacturer Part Number","Max Power Dissipation","Working Voltage","Min Operating Temperature","Max Operating Temperature","Voltage Rating",Mount,"Power Rating",RoHS,"Supplier 1",Tolerance,"Voltage Rating (DC)","Supplier Part Number 1","Supplier 2","Purpose Of Usage","Supplier Part Number 2","Temperature Coefficient","Price 10K","Local Supplier"
+resistor.schlib=Category,Sub-Category,"Case Code (Imperial)",Case/Package,Value,"Stock ID",Manufacturer,"Manufacturer Part Number","Max Power Dissipation","Working Voltage","Min Operating Temperature","Max Operating Temperature","Voltage Rating",Mount,"Power Rating",RoHS,"Supplier 1","Supplier Part Number 1",Tolerance,"Voltage Rating (DC)","Supplier 2","Purpose Of Usage","Supplier Part Number 2","Temperature Coefficient","Price 10K","Local Supplier"
 
