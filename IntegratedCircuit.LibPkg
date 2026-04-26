@@ -92,7 +92,7 @@ DocumentPath=IntegratedCircuit.rep
 DItemRevisionGUID=
 
 [Generic_EDE]
-OutputDir=IntLib Output
+OutputDir=IntLibOutput
 
 [Generic_IntLibOptions]
 OldFormat=False

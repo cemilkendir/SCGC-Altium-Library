@@ -1,0 +1,30 @@
+Removed Parameter Case Code (Metric):1608 from Part R?
+Removed Parameter China RoHS:Compliant from Part R?
+Removed Parameter ComponentLink1Description:https://datasheet.octopart.com:443/RN73H1JTTD1023F25-KOA-Speer-datasheet-182143700.pdf?src-supplier=IHS from Part R?
+Removed Parameter ComponentLink1URL:https://datasheet.octopart.com:443/RN73H1JTTD1023F25-KOA-Speer-datasheet-182143700.pdf?src-supplier=IHS from Part R?
+Removed Parameter ComponentLink2Description:https://datasheet.octopart.com:443/RN73H1JTTD1023F25-KOA-Speer-datasheet-149653818.pdf?src-supplier=Farnell from Part R?
+Removed Parameter ComponentLink2URL:https://datasheet.octopart.com:443/RN73H1JTTD1023F25-KOA-Speer-datasheet-149653818.pdf?src-supplier=Farnell from Part R?
+Removed Parameter ComponentLink3Description:http://sigma.octopart.com:80/rohs_statement/KOA-Speer-company-17.pdf?src-supplier=Compliance+Statements from Part R?
+Removed Parameter ComponentLink3URL:http://sigma.octopart.com:80/rohs_statement/KOA-Speer-company-17.pdf?src-supplier=Compliance+Statements from Part R?
+Removed Parameter Height:450µm from Part R?
+Removed Parameter Lifecycle Status:Production from Part R?
+Removed Parameter Mounting Technology:Surface Mount from Part R?
+Removed Parameter Number of Terminals:2 from Part R?
+Removed Parameter Power Dissipation:100mW from Part R?
+Removed Parameter Pricing:1=0,1, 10=0,089, 25=0,1, 50=0,0776, 100=0,0733, 250=0,06804, 500=0,06444, 1000=0,06115 (EUR) from Part R?
+Removed Parameter REACH SVHC:Yes from Part R?
+Removed Parameter Stock:3739 from Part R?
+Removed Parameter Supplier:DigiKey from Part R?
+Removed Parameter Supplier Part Number:2019-RN73H1JTTD1023F25CT-ND from Part R?
+Removed Parameter Termination:SMD/SMT from Part R?
+Removed Parameter Width:800µm from Part R?
+Change Value of Parameter Category in Part R? Old=Chip SMD Resistors New=RESISTOR
+Change Value of Parameter RoHS in Part R? Old=Compliant New=YES
+Change Value of Parameter Value in Part R? Old=102kO New=102000
+Added Parameter Local Supplier=GENERAL to Part R?
+Added Parameter Max Power Dissipation=100mW to Part R?
+Added Parameter Mount=SMD to Part R?
+Added Parameter Purpose Of Usage=BASIC to Part R?
+Added Parameter Stock ID=?? to Part R?
+Added Parameter Sub-Category=CHIP RESISTOR to Part R?
+Added Parameter Supplier 1=Digi-Key to Part R?

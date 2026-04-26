@@ -83,7 +83,7 @@ GenerateClassCluster=0
 DocumentUniqueId=CZDNJGNG
 
 [Generic_EDE]
-OutputDir=IntLib Output
+OutputDir=IntLibOutput
 
 [Generic_IntLibOptions]
 OldFormat=False

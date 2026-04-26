@@ -1,0 +1,49 @@
+Removed Parameter Case Code (Metric):1608 from Part R?
+Removed Parameter China RoHS:Non-Compliant from Part R?
+Removed Parameter ComponentLink1Description:https://datasheet.octopart.com:443/AC0603FR-0716K9L-Yageo-datasheet-182189377.pdf?src-supplier=IHS from Part R?
+Removed Parameter ComponentLink1URL:https://datasheet.octopart.com:443/AC0603FR-0716K9L-Yageo-datasheet-182189377.pdf?src-supplier=IHS from Part R?
+Removed Parameter ComponentLink2Description:https://datasheet.octopart.com:443/AC0603FR-0716K9L-Yageo-datasheet-86786639.pdf?src-supplier=Upverter from Part R?
+Removed Parameter ComponentLink2URL:https://datasheet.octopart.com:443/AC0603FR-0716K9L-Yageo-datasheet-86786639.pdf?src-supplier=Upverter from Part R?
+Removed Parameter ComponentLink3Description:https://datasheet.octopart.com:443/AC0603FR-0716K9L-Yageo-datasheet-178509465.pdf?src-supplier=Farnell from Part R?
+Removed Parameter ComponentLink3URL:https://datasheet.octopart.com:443/AC0603FR-0716K9L-Yageo-datasheet-178509465.pdf?src-supplier=Farnell from Part R?
+Removed Parameter ComponentLink4Description:https://datasheet.octopart.com:443/AC0603FR-0716K9L-Yageo-datasheet-166720450.pdf?src-supplier=Future+Electronics from Part R?
+Removed Parameter ComponentLink4URL:https://datasheet.octopart.com:443/AC0603FR-0716K9L-Yageo-datasheet-166720450.pdf?src-supplier=Future+Electronics from Part R?
+Removed Parameter ComponentLink5Description:https://datasheet.octopart.com:443/AC0603FR-0716K9L-Yageo-datasheet-151884373.pdf?src-supplier=Future+Electronics from Part R?
+Removed Parameter ComponentLink5URL:https://datasheet.octopart.com:443/AC0603FR-0716K9L-Yageo-datasheet-151884373.pdf?src-supplier=Future+Electronics from Part R?
+Removed Parameter ComponentLink6Description:https://datasheet.octopart.com:443/AC0603FR-0716K9L-Yageo-datasheet-137699919.pdf?src-supplier=Future+Electronics from Part R?
+Removed Parameter ComponentLink6URL:https://datasheet.octopart.com:443/AC0603FR-0716K9L-Yageo-datasheet-137699919.pdf?src-supplier=Future+Electronics from Part R?
+Removed Parameter ComponentLink7Description:https://datasheet.octopart.com/AC0603FR-0716K9L-Yageo-datasheet-12512238.pdf from Part R?
+Removed Parameter ComponentLink7URL:https://datasheet.octopart.com/AC0603FR-0716K9L-Yageo-datasheet-12512238.pdf from Part R?
+Removed Parameter ComponentLink8Description:http://sigma.octopart.com:80/conflict_mineral_statement/Yageo-company-3.pdf?src-supplier=Compliance+Statements from Part R?
+Removed Parameter ComponentLink8URL:http://sigma.octopart.com:80/conflict_mineral_statement/Yageo-company-3.pdf?src-supplier=Compliance+Statements from Part R?
+Removed Parameter ComponentLink9Description:http://sigma.octopart.com:80/rohs_statement/Yageo-company-2.pdf?src-supplier=Compliance+Statements from Part R?
+Removed Parameter ComponentLink9URL:http://sigma.octopart.com:80/rohs_statement/Yageo-company-2.pdf?src-supplier=Compliance+Statements from Part R?
+Removed Parameter Composition:Thick Film from Part R?
+Removed Parameter Features:Automotive AEC-Q200, Moisture Resistant from Part R?
+Removed Parameter Height:450µm from Part R?
+Removed Parameter Length:1.6002mm from Part R?
+Removed Parameter Lifecycle Status:Production from Part R?
+Removed Parameter Mounting Technology:Surface Mount from Part R?
+Removed Parameter Number of Terminals:2 from Part R?
+Removed Parameter Number of Terminations:2 from Part R?
+Removed Parameter Packaging:Tape & Reel from Part R?
+Removed Parameter Power Dissipation:100mW from Part R?
+Removed Parameter Pricing:1=0,09, 10=0,009, 250=0,09, 1000=0,00599 (EUR) from Part R?
+Removed Parameter REACH SVHC:Yes from Part R?
+Removed Parameter Schedule B:8533210045, 8533210045|8533210045|8533210045|8533210045|8533210045 from Part R?
+Removed Parameter Stock:15986 from Part R?
+Removed Parameter Supplier:DigiKey from Part R?
+Removed Parameter Supplier Part Number:YAG5320CT-ND from Part R?
+Removed Parameter Termination:SMD/SMT from Part R?
+Removed Parameter Width:800µm from Part R?
+Change Value of Parameter Category in Part R? Old=Chip SMD Resistors New=RESISTOR
+Change Value of Parameter Manufacturer in Part R? Old=Yageo Group New=YAGEO
+Change Value of Parameter RoHS in Part R? Old=Compliant New=YES
+Change Value of Parameter Value in Part R? Old=16.9kO New=16900
+Added Parameter Local Supplier=GENERAL to Part R?
+Added Parameter Mount=SMD to Part R?
+Added Parameter Purpose Of Usage=BASIC to Part R?
+Added Parameter Stock ID=?? to Part R?
+Added Parameter Sub-Category=CHIP RESISTOR to Part R?
+Added Parameter Supplier 1=Digi-Key to Part R?
+Added Parameter Supplier Part Number 1=YAG5320TR-ND to Part R?

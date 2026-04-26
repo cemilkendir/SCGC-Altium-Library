@@ -1,0 +1,15 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"MTC5028S28";"";
+"TraceParts.PartVersion";"1.0.1";"";
+"SUPPLIER";"XP Power";"";
+"output_current";"1.8A";"";
+"TraceParts.PartNumber";"90-18072024-038226";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"Baseplate cooled 50W COTS DC-DC converters for defense & avionics applications, MTC5028S28";"";
+"TraceParts.InstanceId";"90-18072024-038226DRCKBOYBWIJJGB1CWUX5Q3SLV";"";
+"series";"MTC50 Series";"";
+"TraceParts.PartTitle";"MTC50 Series";"";
+"input_voltage";"10 to 50VDC";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"power";"50W";"";
+"output_voltage";"28V";"";
